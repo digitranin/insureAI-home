@@ -1,2 +1,2 @@
-# insureAI-home
-About Instant AI-powered insights, trends, and graphs for Home Insurance Policies
+# insureAI
+Instant AI-powered insights, trends, and graphs for Insurance Policies
